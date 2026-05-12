@@ -19,6 +19,7 @@ I am available for small, focused paid tasks:
 - add admin, auth, payment, or notification features to an existing app
 - fix Android / React Native integration issues
 - create AI-agent workflows, skills, or automation scripts
+- translate, adapt, or maintain Chinese docs for engineering agent skills
 - customize Tauri / React / Rust desktop helpers for AI tooling
 - review a small codebase and suggest a practical implementation plan
 
@@ -30,7 +31,7 @@ General paid work request:
 [open a focused paid work issue](https://github.com/popsiclelmlm/popsiclelmlm/issues/new?template=paid-work.yml).
 
 中文付费支持:
-如果你需要 Cloudflare 临时邮箱部署、Android / React Native 问题修复、Tauri 桌面工具定制、AI Agent 工作流或小型全栈功能开发，可以直接提交上面的 paid work issue，或发送邮件到 `no_7seven@163.com`。
+如果你需要 Cloudflare 临时邮箱部署、Android / React Native 问题修复、Tauri 桌面工具定制、AI Agent 工作流、中文技能文档维护，或小型全栈功能开发，可以直接提交上面的 paid work issue，或发送邮件到 `no_7seven@163.com`。
 
 Fastest route for Cloudflare temporary email deployment/customization:
 [request paid support for temp_email](https://github.com/popsiclelmlm/temp_email/issues/new?template=paid-support.yml).
