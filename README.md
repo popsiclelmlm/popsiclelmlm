@@ -1,0 +1,33 @@
+# Hi, I'm popsiclelmlm
+
+Android developer and practical AI tooling builder.
+
+I build and maintain tools around:
+
+- Android apps and automation
+- Cloudflare Workers / Pages deployments
+- temporary email infrastructure
+- AI-agent friendly workflows and skills
+- small full-stack products with Next.js, TypeScript, and serverless databases
+
+## Paid Help
+
+I am available for small, focused paid tasks:
+
+- deploy or customize a Cloudflare temporary email service
+- add admin, auth, payment, or notification features to an existing app
+- fix Android / React Native integration issues
+- create AI-agent workflows, skills, or automation scripts
+- review a small codebase and suggest a practical implementation plan
+
+For paid support or custom work, open a GitHub issue on one of my repositories or email:
+
+`no_7seven@163.com`
+
+## Current Projects
+
+- [temp_email](https://github.com/popsiclelmlm/temp_email) - Cloudflare-based temporary email service
+- [skills-cn](https://github.com/popsiclelmlm/skills-cn) - Chinese maintenance notes for engineering agent skills
+- [enable-chrome-ai fork](https://github.com/popsiclelmlm/enable-chrome-ai) - Chrome AI helper contributions
+
+Small, well-scoped work is best. If the task can be described in one issue and verified with a short checklist, it is a good fit.
