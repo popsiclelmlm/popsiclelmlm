@@ -24,6 +24,9 @@ For paid support or custom work, open a GitHub issue on one of my repositories o
 
 `no_7seven@163.com`
 
+Fastest route for Cloudflare temporary email deployment/customization:
+[request paid support for temp_email](https://github.com/popsiclelmlm/temp_email/issues/new?template=paid-support.yml).
+
 ## Current Projects
 
 - [temp_email](https://github.com/popsiclelmlm/temp_email) - Cloudflare-based temporary email service
