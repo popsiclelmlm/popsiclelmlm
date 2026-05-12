@@ -29,12 +29,16 @@ For paid support or custom work, open a GitHub issue on one of my repositories o
 Fastest route for Cloudflare temporary email deployment/customization:
 [request paid support for temp_email](https://github.com/popsiclelmlm/temp_email/issues/new?template=paid-support.yml).
 
+Alternative Cloudflare temp-mail deployment/customization route:
+[request paid support for cloudflare_temp_email](https://github.com/popsiclelmlm/cloudflare_temp_email/issues/new?template=paid-support.yml).
+
 Fastest route for Antigravity / Tauri desktop tooling customization:
 [request paid support for Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml).
 
 ## Current Projects
 
 - [temp_email](https://github.com/popsiclelmlm/temp_email) - Cloudflare-based temporary email service
+- [cloudflare_temp_email](https://github.com/popsiclelmlm/cloudflare_temp_email) - Cloudflare temp-mail deployment fork
 - [Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager) - Tauri/React/Rust account switcher for Antigravity tooling
 - [skills-cn](https://github.com/popsiclelmlm/skills-cn) - Chinese maintenance notes for engineering agent skills
 - [enable-chrome-ai fork](https://github.com/popsiclelmlm/enable-chrome-ai) - Chrome AI helper contributions
