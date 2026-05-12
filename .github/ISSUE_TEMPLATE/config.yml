@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Paid work request
+    url: https://github.com/popsiclelmlm/popsiclelmlm/issues/new?template=paid-work.yml
+    about: Request small paid help, customization, deployment, automation, or code review.

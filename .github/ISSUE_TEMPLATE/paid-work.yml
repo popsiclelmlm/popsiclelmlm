@@ -1,0 +1,67 @@
+name: Paid work request
+description: Request focused paid help, customization, deployment, or code review.
+title: "[Paid work]: "
+labels: ["paid support"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out. Please describe the smallest useful outcome you want delivered.
+
+        Do not post passwords, API keys, session tokens, cookies, private customer data, payment credentials, or other secrets in this issue.
+  - type: dropdown
+    id: work_type
+    attributes:
+      label: Work type
+      options:
+        - Cloudflare temporary email deployment or customization
+        - Android or React Native fix
+        - Tauri / React / Rust desktop tooling
+        - AI-agent workflow, skill, or automation
+        - Next.js / TypeScript / serverless feature
+        - Small code review or implementation plan
+        - Other focused paid task
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What should be true when the work is done?
+      placeholder: "Example: deploy temp_email to my Cloudflare account and document the DNS / D1 / R2 steps."
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and links
+      description: Link public repositories, docs, screenshots, or error messages. Keep private details out of the issue.
+      placeholder: "Repository or public context, current error, expected behavior, and what has already been tried."
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Budget
+      description: A rough budget helps decide whether this can be handled as a small fixed-scope task.
+      placeholder: "Example: USD 20-100"
+    validations:
+      required: false
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: "Example: this week, no hard deadline"
+    validations:
+      required: false
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance checklist
+      description: How can we verify the task is complete?
+      placeholder: |
+        - App deploys successfully
+        - README includes the exact commands
+        - The reported error no longer appears
+    validations:
+      required: false
