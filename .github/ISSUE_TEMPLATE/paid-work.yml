@@ -9,6 +9,14 @@ body:
         Thanks for reaching out. Please describe the smallest useful outcome you want delivered.
 
         Do not post passwords, API keys, session tokens, cookies, private customer data, payment credentials, or other secrets in this issue.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: GitHub username, email, or another public contact method.
+      placeholder: "@username or email@example.com"
+    validations:
+      required: true
   - type: dropdown
     id: work_type
     attributes:
