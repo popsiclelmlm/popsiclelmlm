@@ -42,6 +42,9 @@ Alternative Cloudflare temp-mail deployment/customization route:
 Fastest route for Antigravity / Tauri desktop tooling customization:
 [request paid support for Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml).
 
+Fastest route for Chinese engineering agent skills setup or docs adaptation:
+[request support for skills-cn](https://github.com/popsiclelmlm/skills-cn/issues/new?template=support-request.yml).
+
 ## Current Projects
 
 - [temp_email](https://github.com/popsiclelmlm/temp_email) - Cloudflare-based temporary email service
