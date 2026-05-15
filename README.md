@@ -54,3 +54,5 @@ Fastest route for Chinese engineering agent skills setup or docs adaptation:
 - [enable-chrome-ai fork](https://github.com/popsiclelmlm/enable-chrome-ai) - Chrome AI helper contributions
 
 Small, well-scoped work is best. If the task can be described in one issue and verified with a short checklist, it is a good fit.
+
+The fastest requests include a public repo or context link, budget range, timeline, and acceptance checklist.

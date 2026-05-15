@@ -52,17 +52,18 @@ body:
     id: budget
     attributes:
       label: Budget
-      description: A rough budget helps decide whether this can be handled as a small fixed-scope task.
+      description: A rough budget or range helps decide whether this can be handled as a small fixed-scope task.
       placeholder: "Example: USD 20-100"
     validations:
-      required: false
+      required: true
   - type: input
     id: deadline
     attributes:
-      label: Deadline
+      label: Timeline
+      description: When do you need this completed?
       placeholder: "Example: this week, no hard deadline"
     validations:
-      required: false
+      required: true
   - type: textarea
     id: acceptance
     attributes:
@@ -73,4 +74,4 @@ body:
         - README includes the exact commands
         - The reported error no longer appears
     validations:
-      required: false
+      required: true
