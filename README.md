@@ -1,58 +1,72 @@
-# Hi, I'm popsiclelmlm
+<div align="center">
 
-Android developer and practical AI tooling builder.
+# Hi, I'm lmlm 👋
 
-I build and maintain tools around:
+**Android / HarmonyOS developer · practical AI-tooling builder**
 
-- Android apps and automation
-- Cloudflare Workers / Pages deployments
-- temporary email infrastructure
-- AI-agent friendly workflows and skills
-- AI developer-tool helpers built with Tauri / React / Rust
-- small full-stack products with Next.js, TypeScript, and serverless databases
+I ship small, focused products: mobile VPN clients, React Native libraries,
+serverless email infra, and AI-agent workflows.
 
-## Paid Help
+<p>
+  <img src="https://img.shields.io/badge/HarmonyOS-NEXT-0A0A0A?style=flat-square" alt="HarmonyOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+</p>
 
-I am available for small, focused paid tasks:
+</div>
 
-- deploy or customize a Cloudflare temporary email service
-- add admin, auth, payment, or notification features to an existing app
+---
+
+## 🚀 Featured project
+
+### [Hey VPN](https://github.com/popsiclelmlm/Hey) — a HarmonyOS VPN client powered by a native Xray core
+
+[![Hey stars](https://img.shields.io/github/stars/popsiclelmlm/Hey?style=social)](https://github.com/popsiclelmlm/Hey)
+
+ArkTS + Stage model + a packaged native Xray core. Imports nodes and
+subscriptions, generates an Xray runtime config, and routes the device TUN flow
+through Xray's native TUN inbound. Supports VLESS / VMess / Trojan / Shadowsocks
+/ SOCKS / WireGuard / Hysteria2, per-app proxy, routing rules, and geo-assets.
+
+## 📦 Other projects
+
+- **[temp_email](https://github.com/popsiclelmlm/temp_email)** — Cloudflare-based temporary email service (Workers + Pages)
+- **[react-native-cn-maps](https://github.com/popsiclelmlm/react-native-cn-maps)** — React Native map components for China map providers
+- **[xiaohong-ai](https://github.com/popsiclelmlm/xiaohong-ai)** — Next.js sales & order platform for AI tools and digital goods
+- **[react-native-vibe-spec](https://github.com/popsiclelmlm/react-native-vibe-spec)** — RN `/rns` spec workflow for Codex and AI coding agents
+- **[skills-cn](https://github.com/popsiclelmlm/skills-cn)** — Chinese maintenance notes & installer for engineering agent skills
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=popsiclelmlm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popsiclelmlm&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
+
+</div>
+
+## 💼 Paid help
+
+I'm available for small, well-scoped paid tasks — best when the work fits in one
+issue and can be verified with a short checklist:
+
+- deploy or customize a Cloudflare temporary-email service
+- add admin / auth / payment / notification features to an existing app
 - fix Android / React Native integration issues
-- create AI-agent workflows, skills, or automation scripts
-- translate, adapt, or maintain Chinese docs for engineering agent skills
+- build AI-agent workflows, skills, or automation scripts
 - customize Tauri / React / Rust desktop helpers for AI tooling
-- review a small codebase and suggest a practical implementation plan
+- translate, adapt, or maintain Chinese docs for engineering agent skills
 
-For paid support or custom work, open a GitHub issue on one of my repositories or email:
+**Fastest routes** (open a templated issue):
+[general paid work](https://github.com/popsiclelmlm/popsiclelmlm/issues/new?template=paid-work.yml) ·
+[temp_email](https://github.com/popsiclelmlm/temp_email/issues/new?template=paid-support.yml) ·
+[cloudflare_temp_email](https://github.com/popsiclelmlm/cloudflare_temp_email/issues/new?template=paid-support.yml) ·
+[Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml) ·
+[skills-cn](https://github.com/popsiclelmlm/skills-cn/issues/new?template=support-request.yml)
 
-`no_7seven@163.com`
+中文：需要 Cloudflare 临时邮箱部署、Android / React Native 修复、Tauri 桌面工具定制、AI Agent 工作流或中文技能文档维护，可直接提交上面的 issue，或邮件联系 `no_7seven@163.com`。
 
-General paid work request:
-[open a focused paid work issue](https://github.com/popsiclelmlm/popsiclelmlm/issues/new?template=paid-work.yml).
-
-中文付费支持:
-如果你需要 Cloudflare 临时邮箱部署、Android / React Native 问题修复、Tauri 桌面工具定制、AI Agent 工作流、中文技能文档维护，或小型全栈功能开发，可以直接提交上面的 paid work issue，或发送邮件到 `no_7seven@163.com`。
-
-Fastest route for Cloudflare temporary email deployment/customization:
-[request paid support for temp_email](https://github.com/popsiclelmlm/temp_email/issues/new?template=paid-support.yml).
-
-Alternative Cloudflare temp-mail deployment/customization route:
-[request paid support for cloudflare_temp_email](https://github.com/popsiclelmlm/cloudflare_temp_email/issues/new?template=paid-support.yml).
-
-Fastest route for Antigravity / Tauri desktop tooling customization:
-[request paid support for Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager/issues/new?template=paid-support.yml).
-
-Fastest route for Chinese engineering agent skills setup or docs adaptation:
-[request support for skills-cn](https://github.com/popsiclelmlm/skills-cn/issues/new?template=support-request.yml).
-
-## Current Projects
-
-- [temp_email](https://github.com/popsiclelmlm/temp_email) - Cloudflare-based temporary email service
-- [cloudflare_temp_email](https://github.com/popsiclelmlm/cloudflare_temp_email) - Cloudflare temp-mail deployment fork
-- [Antigravity-Manager](https://github.com/popsiclelmlm/Antigravity-Manager) - Tauri/React/Rust account switcher for Antigravity tooling
-- [skills-cn](https://github.com/popsiclelmlm/skills-cn) - Chinese maintenance notes for engineering agent skills
-- [enable-chrome-ai fork](https://github.com/popsiclelmlm/enable-chrome-ai) - Chrome AI helper contributions
-
-Small, well-scoped work is best. If the task can be described in one issue and verified with a short checklist, it is a good fit.
-
-The fastest requests include a public repo or context link, budget range, timeline, and acceptance checklist.
+📧 `no_7seven@163.com`
